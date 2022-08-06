@@ -20,7 +20,7 @@ class Attributes:
 		
 	def coding(self):
 		langs = {
-			'expert':   ['python'],
+			'main':   ['python'],
 			'learning': ['lua', 'c#']
 		}
 		specialities  = ['web reverse engineering', 'discord bots']
